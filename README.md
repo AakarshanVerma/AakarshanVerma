@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/AakarshanVerma/AakarshanVerma/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aakarshan Verma</h1>
 <h3 align="center">A passionate Engineering Student from India</h3>
 
